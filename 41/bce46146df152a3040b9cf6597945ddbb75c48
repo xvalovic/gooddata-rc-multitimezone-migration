@@ -1,0 +1,23 @@
+migrate.py
+  s_2f985483d24351::t_71bae98d91d9db 515-522,557
+migration_tool/api.py
+  s_2f985483d24351::t_a9db0e1f4497af 142-146,150-152,156
+migration_tool/discovery.py
+  s_2f985483d24351::t_77767bd74ae8cf 380,384-387,401,427-429,431-437,441-442
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "41bce46146df152a3040b9cf6597945ddbb75c48",
+  "prompts": {},
+  "sessions": {
+    "s_2f985483d24351": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9c88ff55-e86d-4c66-8b85-229cf10339b8",
+        "model": "claude-fable-5-1"
+      },
+      "human_author": "Roman Valovic <xvalovic@mendelu.cz>"
+    }
+  }
+}
